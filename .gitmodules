@@ -1,0 +1,3 @@
+[submodule "hs100"]
+	path = hs100
+	url = https://github.com/branning/hs100
